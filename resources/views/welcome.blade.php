@@ -96,6 +96,19 @@
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     Laravel's robust library of first-party tools and libraries, such as <a href="https://forge.laravel.com" class="underline">Forge</a>, <a href="https://vapor.laravel.com" class="underline">Vapor</a>, <a href="https://nova.laravel.com" class="underline">Nova</a>, and <a href="https://envoyer.io" class="underline">Envoyer</a> help you take your projects to the next level. Pair them with powerful open source libraries like <a href="https://laravel.com/docs/billing" class="underline">Cashier</a>, <a href="https://laravel.com/docs/dusk" class="underline">Dusk</a>, <a href="https://laravel.com/docs/broadcasting" class="underline">Echo</a>, <a href="https://laravel.com/docs/horizon" class="underline">Horizon</a>, <a href="https://laravel.com/docs/sanctum" class="underline">Sanctum</a>, <a href="https://laravel.com/docs/telescope" class="underline">Telescope</a>, and more.
                                 </div>
+                                <div class="juego">
+                                    <header>
+                                        <h1>Bienvenido a Mi Página Web</h1>
+                                    </header>
+                                    <main>
+                                        <h2>¡Hola, Mundo!</h2>
+                                        <p>Esta es una página web simple en español. Aquí puedes agregar más contenido, como texto, imágenes o enlaces.</p>
+                                        <p>Por ejemplo, puedes visitar <a href="https://www.google.com">Google</a> para buscar más información.</p>
+                                    </main>
+                                    <footer>
+                                        <p>&copy; 2023 Mi Página Web. Todos los derechos reservados.</p>
+                                    </footer>
+                                </div>
                             </div>
                         </div>
                     </div>
